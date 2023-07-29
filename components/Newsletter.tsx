@@ -13,7 +13,7 @@ const Newsletter = () => {
             className="border border-gray-300 rounded-md px-2 py-3 w-[65%] focus:outline-none text-gray-400"
             placeholder="Your email address"
           />
-          <button className="bg-[#FF4605] text-[14px] w-max px-6 py-[13px] rounded-md text-white">
+          <button className="bg-[#FF4605] text-[12px] md:text-[14px] w-max px-3 md:px-6 py-[13px] rounded-md text-white">
             Sign Up
           </button>
         </div>

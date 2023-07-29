@@ -21,11 +21,11 @@ const Showcase = () => {
               Download our app
             </h2>
             <div className="flex flex-row md:flex-col gap-2">
-            <button className="flex gap-2 px-4 py-3 bg-white rounded-full mb-3 w-fit items-center md:w-[180px] font-bold">
+            <button className="flex gap-2 px-3 md:px-6 py-3 bg-white rounded-full mb-3 w-fit items-center md:w-[180px] font-bold">
               <BsGooglePlay color="#FF4605" size={20} />
               For Android
             </button>
-            <button className="flex gap-2 px-8 md:px-4 py-3 bg-white mb-3 rounded-full w-fit md:w-[180px] items-center font-bold">
+            <button className="flex gap-2 px-3 md:px-6 py-3 bg-white mb-3 rounded-full w-fit md:w-[180px] items-center font-bold">
               <BsApple color="#FF4605" size={20} />
               For Ios
             </button>
